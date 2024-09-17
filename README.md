@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tharikabalu
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently working as an Intern at FORD GDIA
+- 🌱 I’m currently working as a Data Scientist at FORD GDIA and am a graduate with major in Artificial Intelligence and Data Science
 
 <!---
 Tharikabalu/Tharikabalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
